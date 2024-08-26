@@ -12,12 +12,14 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { CreatePostComponent } from './components/create-post/create-post.component';
 import { ViewAllComponent } from './components/view-all/view-all.component';
+import { ViewPostComponent } from './components/view-post/view-post.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CreatePostComponent,
-    ViewAllComponent
+    ViewAllComponent,
+    ViewPostComponent
   ],
   imports: [
     BrowserModule,
