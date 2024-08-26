@@ -1,0 +1,17 @@
+  
+
+.example-spacer {
+    flex: 1 1 auto;
+
+  }
+  .bar{
+    background-color: #9197f0;
+    color: aliceblue;
+  }
+
+  button.createButton{
+    background-color:#9197f0;
+    border-radius: 50px;
+    color: #fafafa;
+  }
+  
