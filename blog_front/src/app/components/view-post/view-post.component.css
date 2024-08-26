@@ -30,3 +30,7 @@ mat-card-footer{
 mat-form-field{
     width: 100%;
 }
+button.likeButton{
+    background-color:#9197f0;
+    color: #fafafa;
+}

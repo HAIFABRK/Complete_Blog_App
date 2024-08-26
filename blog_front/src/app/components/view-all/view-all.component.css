@@ -22,3 +22,8 @@ mat-card-footer{
     object-fit: cover;
     margin-top: 15px;
 }
+
+button.likeButton{
+    background-color:#9197f0;
+    color: #fafafa;
+}
